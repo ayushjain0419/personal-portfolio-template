@@ -2,7 +2,7 @@
 
 A cinematic, dark-minimal portfolio built with **React + Vite + Three.js + Framer Motion + Tailwind CSS**.
 
-Live demo: [ayushjain.com](https://ayushjain.com) <!-- update with your link -->
+Live demo: [buildwithayush.com](https://buildwithayush.com) 
 
 ![Portfolio Preview](https://raw.githubusercontent.com/ayushjain0419/ayush-personal-portfolio/main/public/ayush.jpg)
 
